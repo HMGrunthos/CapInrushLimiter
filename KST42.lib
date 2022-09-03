@@ -1,0 +1,22 @@
+**************** Discrete Power Bipolar Electrical Parameters *****************
+** Product: KST42/43
+** Package: SOT-23
+** High Voltage NPN Epitaxial Silicon Transistor
+*******************************************************************************
+.MODEL KST42 npn 
++ LEVEL  = 1               IS     = 3.801894E-14    BF     = 142.8           
++ NF     = 1               BR     = 9.86            NR     = 1 
++ ISE    = 8.31764E-15     NE     = 1.5             ISC    = 3.019952E-14
++ NC     = 1.5             VAF    = 121.25          VAR    = 9.82
++ IKF    = 0.057544        IKR    = 0.01            RB     = 85.226
++ RBM    = 8.092           IRB    = 2.81838E-4      RE     = 0.48
++ RC     = 5.1             CJE    = 5.582395E-11    VJE    = 0.6162835 
++ MJE    = 0.3010475       FC     = 0.5             CJC    = 7.310296E-12
++ VJC    = 0.5             MJC    = 0.2463427       TF     = 1.7284E-9
++ XTF    = 54.226          ITF    = 0.75344         VTF    = 67.631 
++ PTF    = 20              TR     = 1E-8            XTB    = 1.5 
++ EG     = 1.17            XTI    = 3
+******************************************************************************
+** Creation: Feb.-03-2006
+** Fairchild Semiconductor
+
