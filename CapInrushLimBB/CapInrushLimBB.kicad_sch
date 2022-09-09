@@ -1822,7 +1822,7 @@
     (property "Reference" "C1" (id 0) (at 115.57 108.3309 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "10uF (715-3019)" (id 1) (at 115.57 110.8709 0)
+    (property "Value" "10uF 100V" (id 1) (at 115.57 110.8709 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "Capacitor_THT:CP_Radial_D6.3mm_P2.50mm" (id 2) (at 112.7252 113.03 0)
@@ -2061,7 +2061,7 @@
     (property "Reference" "C2" (id 0) (at 87.63 126.9999 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "220nF (in 188-6215 package)" (id 1) (at 87.63 129.5399 0)
+    (property "Value" "220nF 50V" (id 1) (at 87.63 129.5399 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "Capacitor_THT:C_Disc_D5.1mm_W3.2mm_P5.00mm" (id 2) (at 84.7852 132.08 0)
@@ -2137,7 +2137,7 @@
     (property "Reference" "C4" (id 0) (at 142.24 132.0799 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "100nF (653-0153)" (id 1) (at 142.24 134.6199 0)
+    (property "Value" "100nF 50V" (id 1) (at 142.24 134.6199 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "Capacitor_THT:C_Disc_D5.1mm_W3.2mm_P5.00mm" (id 2) (at 139.3952 137.16 0)
@@ -2156,7 +2156,7 @@
     (property "Reference" "C3" (id 0) (at 129.54 131.1909 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "10uF (440-6547)" (id 1) (at 129.54 133.7309 0)
+    (property "Value" "10uF 63V" (id 1) (at 129.54 133.7309 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "Capacitor_THT:CP_Radial_D5.0mm_P2.00mm" (id 2) (at 126.6952 137.16 0)
@@ -2281,16 +2281,16 @@
 
   (symbol_instances
     (path "/4700c50c-9860-4532-a2c7-53fd9c745d97"
-      (reference "C1") (unit 1) (value "10uF (715-3019)") (footprint "Capacitor_THT:CP_Radial_D6.3mm_P2.50mm")
+      (reference "C1") (unit 1) (value "10uF 100V") (footprint "Capacitor_THT:CP_Radial_D6.3mm_P2.50mm")
     )
     (path "/aa3000e9-ae89-4921-813a-5088ef73c282"
-      (reference "C2") (unit 1) (value "220nF (in 188-6215 package)") (footprint "Capacitor_THT:C_Disc_D5.1mm_W3.2mm_P5.00mm")
+      (reference "C2") (unit 1) (value "220nF 50V") (footprint "Capacitor_THT:C_Disc_D5.1mm_W3.2mm_P5.00mm")
     )
     (path "/d60a5db2-8cd8-4af1-8cbf-01714930ea15"
-      (reference "C3") (unit 1) (value "10uF (440-6547)") (footprint "Capacitor_THT:CP_Radial_D5.0mm_P2.00mm")
+      (reference "C3") (unit 1) (value "10uF 63V") (footprint "Capacitor_THT:CP_Radial_D5.0mm_P2.00mm")
     )
     (path "/c42c87d9-6630-4bdd-b504-0fc4fcaddf1b"
-      (reference "C4") (unit 1) (value "100nF (653-0153)") (footprint "Capacitor_THT:C_Disc_D5.1mm_W3.2mm_P5.00mm")
+      (reference "C4") (unit 1) (value "100nF 50V") (footprint "Capacitor_THT:C_Disc_D5.1mm_W3.2mm_P5.00mm")
     )
     (path "/3d73d65c-87b2-4d45-a3f8-7608125062bc"
       (reference "D1") (unit 1) (value "STPS10SM80CFP") (footprint "Package_TO_SOT_THT:TO-220F-3_Vertical")
