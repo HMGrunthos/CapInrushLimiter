@@ -2011,7 +2011,7 @@
     (property "Reference" "Q4" (id 0) (at 165.354 95.2501 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "Q_PMOS_GDSD" (id 1) (at 165.354 92.7101 0)
+    (property "Value" "BSP230 300V 0.21A" (id 1) (at 165.354 92.7101 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "Package_TO_SOT_SMD:SOT-223" (id 2) (at 163.83 96.52 0)
@@ -2275,7 +2275,7 @@
       (reference "Q3") (unit 1) (value "MPSA42") (footprint "CapInrushLim:TO-92_Inline")
     )
     (path "/73df3bcd-2a9d-48ad-b04a-af9ee62e7631"
-      (reference "Q4") (unit 1) (value "Q_PMOS_GDSD") (footprint "Package_TO_SOT_SMD:SOT-223")
+      (reference "Q4") (unit 1) (value "BSP230 300V 0.21A") (footprint "Package_TO_SOT_SMD:SOT-223")
     )
     (path "/1aaccc8b-a1cb-454a-b9d3-615d5ab3916e"
       (reference "R1") (unit 1) (value "100k") (footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P2.54mm_Vertical")
