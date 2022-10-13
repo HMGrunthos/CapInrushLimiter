@@ -1895,7 +1895,7 @@
     (uuid 2420062a-7b05-40e0-a967-cfdef8a9ac4f)
     (property "Reference" "D4" (id 0) (at 100.33 85.09 0))
     (property "Value" "BZY88-C9V1" (id 1) (at 97.79 85.09 0))
-    (property "Footprint" "Diode_THT:D_DO-35_SOD27_P5.08mm_Vertical_AnodeUp" (id 2) (at 93.98 85.09 0)
+    (property "Footprint" "Diode_THT:D_DO-35_SOD27_P3.81mm_Vertical_AnodeUp" (id 2) (at 93.98 85.09 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 93.98 85.09 0)
@@ -2350,7 +2350,7 @@
       (reference "D3") (unit 1) (value "BAS16H") (footprint "Diode_SMD:D_SOD-323_HandSoldering")
     )
     (path "/2420062a-7b05-40e0-a967-cfdef8a9ac4f"
-      (reference "D4") (unit 1) (value "BZY88-C9V1") (footprint "Diode_THT:D_DO-35_SOD27_P5.08mm_Vertical_AnodeUp")
+      (reference "D4") (unit 1) (value "BZY88-C9V1") (footprint "Diode_THT:D_DO-35_SOD27_P3.81mm_Vertical_AnodeUp")
     )
     (path "/b236afa7-5ddc-4fa0-8b38-6e2f2c55b1a6"
       (reference "D5") (unit 1) (value "1n4002") (footprint "Diode_THT:D_DO-41_SOD81_P2.54mm_Vertical_KathodeUp")
