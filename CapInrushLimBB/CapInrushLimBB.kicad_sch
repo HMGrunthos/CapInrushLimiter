@@ -1939,6 +1939,10 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 9392fc0d-7461-4128-8cb7-15e79b897764)
   )
+  (text "Set at 3.5k initially" (at 91.44 142.24 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid b955c5ed-0423-4451-aba8-112901e1fa45)
+  )
 
   (label "PolProtect" (at 64.77 73.66 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
