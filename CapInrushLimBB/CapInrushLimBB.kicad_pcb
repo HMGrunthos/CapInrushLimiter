@@ -1963,8 +1963,9 @@
   (gr_rect (start 207.01 125.41125) (end 262.73125 160.3375) (layer "Edge.Cuts") (width 0.1) (fill none) (tstamp 87a524ec-ca79-4b94-95cf-0ff048aba62e))
 
   (segment (start 230.540565 142.7325) (end 222.130565 151.1425) (width 2.2) (layer "B.Cu") (net 1) (tstamp 36ad920f-739e-4d54-9020-1d8be33bfc57))
+  (segment (start 231.460565 146.3675) (end 231.460565 143.6525) (width 0.6096) (layer "B.Cu") (net 1) (tstamp 3f176d88-5c78-4a5b-8ee7-8b5dc681f4cf))
   (segment (start 222.130565 151.1425) (end 220.98 151.1425) (width 2.2) (layer "B.Cu") (net 1) (tstamp 404f5736-4575-4ec6-b8e6-394f88046408))
-  (segment (start 231.460565 146.3675) (end 229.714315 144.62125) (width 0.6096) (layer "B.Cu") (net 1) (tstamp 44b3091d-0bd8-4a85-98ac-92a280dde427))
+  (segment (start 231.460565 143.6525) (end 230.540565 142.7325) (width 0.6096) (layer "B.Cu") (net 1) (tstamp 4673679a-a041-4bbd-bfb5-153f0f496905))
   (segment (start 221.141815 156.9339) (end 221.141815 151.13) (width 1.905) (layer "B.Cu") (net 1) (tstamp 4f345651-9a88-456a-bfc3-7072ec73b37a))
   (segment (start 230.256117 155.394733) (end 231.460565 154.190285) (width 0.6096) (layer "B.Cu") (net 1) (tstamp 76d4cffb-2910-49a4-bc3c-5c769c62f32d))
   (segment (start 232.909315 146.3675) (end 231.460565 146.3675) (width 0.6096) (layer "B.Cu") (net 1) (tstamp a3b7ab70-0c6b-4aed-8f8e-40ca99c3ec9a))
