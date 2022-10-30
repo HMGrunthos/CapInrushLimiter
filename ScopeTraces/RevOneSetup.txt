@@ -1,0 +1,3 @@
+Channel 1 was current sense resistor == 0.48 ohms
+Channel 2 was voltage on capacitor bank
+Math channel was channel 1 over 0.46 sense resistor
