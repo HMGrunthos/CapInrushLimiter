@@ -2441,7 +2441,7 @@
     (property "Reference" "R4" (id 0) (at 121.92 127 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Value" "560" (id 1) (at 119.38 127 90)
+    (property "Value" "180" (id 1) (at 119.38 127 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P2.54mm_Vertical" (id 2) (at 117.602 128.27 90)
@@ -2631,7 +2631,7 @@
       (reference "R2") (unit 1) (value "100k") (footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P2.54mm_Vertical")
     )
     (path "/c009d0ef-0fe4-4f61-a3e8-a7b3723c61b0"
-      (reference "R4") (unit 1) (value "560") (footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P2.54mm_Vertical")
+      (reference "R4") (unit 1) (value "180") (footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P2.54mm_Vertical")
     )
     (path "/145ce36a-99ab-4c24-9bc7-c0a569b41012"
       (reference "R5") (unit 1) (value "47") (footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P2.54mm_Vertical")
