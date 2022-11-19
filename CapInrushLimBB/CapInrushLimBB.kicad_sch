@@ -2403,10 +2403,10 @@
     (property "Reference" "D5" (id 0) (at 127 101.5999 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "1N4749A (24V)" (id 1) (at 127 104.1399 90)
+    (property "Value" "BZX55C24" (id 1) (at 127 104.1399 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Diode_THT:D_DO-41_SOD81_P2.54mm_Vertical_KathodeUp" (id 2) (at 124.46 102.87 0)
+    (property "Footprint" "Diode_THT:D_DO-35_SOD27_P2.54mm_Vertical_KathodeUp" (id 2) (at 124.46 102.87 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 124.46 102.87 0)
@@ -2580,7 +2580,7 @@
       (reference "D4") (unit 1) (value "BZY88-C9V1") (footprint "Diode_THT:D_DO-35_SOD27_P3.81mm_Vertical_AnodeUp")
     )
     (path "/aaf70202-fa2c-4218-9bfa-a88dd718e9bd"
-      (reference "D5") (unit 1) (value "1N4749A (24V)") (footprint "Diode_THT:D_DO-41_SOD81_P2.54mm_Vertical_KathodeUp")
+      (reference "D5") (unit 1) (value "BZX55C24") (footprint "Diode_THT:D_DO-35_SOD27_P2.54mm_Vertical_KathodeUp")
     )
     (path "/8b036306-9b43-4d58-90a3-f75924c14fc9"
       (reference "D7") (unit 1) (value "BZX79-C15") (footprint "Diode_THT:D_DO-35_SOD27_P3.81mm_Vertical_AnodeUp")
