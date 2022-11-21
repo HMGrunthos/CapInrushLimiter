@@ -1935,7 +1935,7 @@
     (uuid fe88ad89-93cb-43db-826e-bebdee9f09b6)
   )
 
-  (text "The zener across the realy coil regualtes\nthe coil voltage since the current regulation\nfrom Q3 is unstable due to changes in\nbete/Vbe with temperature."
+  (text "The zener across the realy coil regualtes\nthe coil voltage since the current regulation\nfrom Q3 is unstable due to changes in\nbeta/Vbe with temperature."
     (at 116.84 69.85 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 244bfa8a-7777-4dc5-9750-63bb65ce8ccc)
